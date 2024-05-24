@@ -1,0 +1,93 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "4f0c501e-9c77-471a-819e-6aff7ce3e9c2",
+   "metadata": {},
+   "source": [
+    "### A.\n",
+    "\n",
+    "### Research Question\n",
+    "\n",
+    "       A justification for the research question is that housing is a unique asset. Both an investment and a consumption good, it is traded in markets that are subject to significant search frictions and information asymmetries. In addition, housing accounts for a large share of wealth in the economy. As a result, changes in house prices can have large effects on aggregate economic activity. In combination with the availability of excellent microdata on housing transactions, this makes housing an ideal asset for the study of a range of questions of broader economic interest (What Can Housing Markets Teach Us about Economics?, n.d.).\n",
+    "\n",
+    "          The context in which the research question exists is as follows. As a data analyst I will be trying to create a predictive model that can estimate the median housing value in California so real estate developers can accurately appraise their property. This study will utilize a multiple linear regression model to analyze the significance of predictor variables and their correlation to the median housing value. \n",
+    "\n",
+    "    The research question is as follows. Can a predictive model be created on the research data set?\n",
+    "\n",
+    "    Hypothesis: Null hypothesis-. A  MLR  model cannot be constructed on the research data set.              \n",
+    "     Alternate Hypothesis-. A MLR model can be constructed on the research data set with an accuracy greater than 70%.\n",
+    "          "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fdd44846-a03b-4837-a086-ea015123a17c",
+   "metadata": {},
+   "source": [
+    "### B.\n",
+    "\n",
+    "### Data Collection\n",
+    "\n",
+    "        The data collected for this study is publicly available information provided by the U.S. census bureau (California Housing Prices, n.d.). The data contains information from the 1990 California census. The data set contains 20,640 rows.\n",
+    "    The data set contains the following variables of longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, ocean_proximity. The data set is available through kaggle.com."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "00a39de9-f55f-46f6-b82d-c7a5496e1bd5",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "7375eb42-375b-48d6-9d00-294710f8e3c8",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "321504b7-540e-4caf-9015-8464b3b343b8",
+   "metadata": {},
+   "source": [
+    "### Citations\n",
+    "\n",
+    "\n",
+    "    California Housing Prices. (n.d.). Www.kaggle.com. \t\n",
+    "    https://www.kaggle.com/datasets/camnugent/california-housing-prices\n",
+    "    \n",
+    "        \n",
+    "    What Can Housing Markets Teach Us about Economics? (n.d.). NBER.\n",
+    "    https://www.nber.org/reporter/2016number4/what-can-housing-markets-teach-us-about-economics\n",
+    "\n",
+    "    \n",
+    "        "
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.10.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
